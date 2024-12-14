@@ -2,7 +2,7 @@ package com.thetechbull.Arrays.SDArrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+//Dynamic nature
 public class DynamicBehaviorUsingArrayList {
     public static void main(String[] args) {
 
