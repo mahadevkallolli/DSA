@@ -27,5 +27,6 @@ public class Example2Loops {
             System.out.println(k);
             k++;
         }while(k<=10);
+        //when we have to use for loop
       }
 }
